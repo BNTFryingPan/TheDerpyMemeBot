@@ -11,3 +11,6 @@ Run run.py or bot.py to start the bot.
 # Commands
 
 There are several bot commands you should know about.
+
+!clear will clear chat
+
