@@ -1,6 +1,8 @@
 # TheDerpyMemeBot
 The Home of TheDerpyMemeBot development!
 
+The only file you need is the Blank Bot folder. Put this anywhere you want on your computer
+
 To use TheDerpyMemeBot make sure you have Python 3 installed.
 To setup the bot, you need to edit config.py
 
